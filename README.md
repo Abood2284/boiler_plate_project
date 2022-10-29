@@ -1,16 +1,11 @@
 # boiler_plate_project
 
-A new Flutter project.
+Boiler Plate Project with minimal Code & dependencies to start your new flutter project with.
 
-## Getting Started
+## How to use
 
-This project is a starting point for a Flutter application.
+- Create your flutter project using command "flutter create ."
+- Download the ZIP folder of the Project
+- Then replace your "lib" folder with the "lib" folder you will get in the ZIP
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# THANK YOU!!!
