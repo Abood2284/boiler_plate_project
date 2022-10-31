@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'home.dart';
 
-Route<dynamic> genrateRoute(RouteSettings routeSettings) {
+Route<dynamic> generateRoute(RouteSettings routeSettings) {
   switch (routeSettings.name) {
     case Home.routeName:
       return MaterialPageRoute(
